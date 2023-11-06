@@ -1,0 +1,2 @@
+ui show krwany ky liye 
+paralel route
